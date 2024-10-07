@@ -1,0 +1,112 @@
+/* Author: Patel Pujan, Student Number: 9033269 */
+
+body {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    font: 1rem/1.5 Arial, sans-serif;
+    padding: 20px;
+}
+
+header {
+    border: 1px solid #060606;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px 0;
+    background-color: #fdfffc;
+}
+
+main{
+    text-align: left;
+    width: 70%;
+    float: left;
+}
+
+main,aside{
+    width: 30%;
+    float: left;
+}
+
+aside{
+    background-color: lightgray;
+}
+
+h1 {
+    color: #0e0e0f;
+    font-variant: small-caps;
+    position: relative;
+    left: 40%;
+}
+
+h2 {
+    color: #0e85bc;
+    font-variant: small-caps;
+
+}
+h3 {
+    color: #0e85bc;
+    font-variant: small-caps;
+    position: relative;
+    text-align: left;
+    float: left;
+}
+
+
+footer{
+    clear: both;
+    border: 1px solid black;
+    text-align: center;
+    background-color: gray;
+}
+
+
+main {
+    float: left;
+    width: 66%;
+    padding: 10px;
+}
+
+aside {
+    height: 1100px;
+    float: right;
+    width: 30%;
+    padding: 10px;
+    
+}
+
+.mainimg {
+    height: 400px;
+    width: 500px;
+    position: relative;
+    top: 75px;
+
+}
+.mainimg2 {
+
+    height: 400px;
+    width: 500px;
+    position: relative;
+    top: 75px;
+   
+}
+figcaption {
+    font-weight: bold;
+    position: relative;
+    top: 75px;
+    font-variant: inherit;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    line-height: 1.5;
+} 
+
+aside a {
+    text-decoration: none;
+    color: #2980b9;
+}
+
