@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+git init
+git add
+git commit m-'Assignment 1 commit'
+git remote add https://github.com/pujan89/assignment1Pujan.git
+git push-u origin master
